@@ -1,7 +1,14 @@
 ### <div align="center">I'm Santhosh, a full-time full-stack developer 👨‍💻 working at Virtusa since 2020 🚀</div>  
   <br>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/msanthoshofficial/portfolio)  
+<div align="center">
+<a href="https://msanthoshofficial.github.io/portfolio" target="_blank">
+My Portfolio
+</a>
+</div>
+<br>
+
+- 🔭 I’m currently working on My Portfolio  
   
 
 - 🌱 I’m currently learning Svelte and DSA  
